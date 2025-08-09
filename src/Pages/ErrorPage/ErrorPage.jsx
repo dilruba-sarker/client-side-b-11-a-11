@@ -19,7 +19,7 @@ export default function ErrorPage() {
       <Lottie options={defaultOptions} height={400} width={800} />
 
  <Link to="/">
-        <button className="btn btn-primary">Go To Home</button>
+        <button className="btn btn-primary">Back To Home</button>
       </Link>
     </div>
   );
